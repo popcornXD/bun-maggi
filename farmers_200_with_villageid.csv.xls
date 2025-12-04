@@ -1,0 +1,201 @@
+FarmerID,Name,VillageID,Village,Land_Size_Acres,Crop_Type
+F0001,Priya Kumar,18,Tumkur,4.06,Wheat
+F0002,Kavita Rao,15,Mysore,9.53,Millets
+F0003,Meera Patel,1,Bagalkot,7.45,Sugarcane
+F0004,Asha Kumar,14,Mandya,6.19,Wheat
+F0005,Kavita Acharya,20,Uttara Kannada,1.98,Rice
+F0006,Meera Gupta,12,Kodagu,1.98,Sugarcane
+F0007,Kavita Chopra,1,Bagalkot,1.05,Maize
+F0008,Ravi Singh,13,Kolar,8.73,Maize
+F0009,Rohan Rao,17,Shimoga,6.21,Pulses
+F0010,Manoj Reddy,14,Mandya,7.23,Sugarcane
+F0011,Priya Khan,16,Raichur,0.7,Cotton
+F0012,Rohan Sharma,9,Hassan,9.71,Cotton
+F0013,Priya Bedi,14,Mandya,8.41,Cotton
+F0014,Deepa Bhat,16,Raichur,2.52,Cotton
+F0015,Vijay Patel,10,Hosur,2.23,Millets
+F0016,Kavita Desai,14,Mandya,2.24,Pulses
+F0017,Kavita Reddy,4,Bidar,3.39,Maize
+F0018,Anil Khan,7,Davanagere,5.49,Maize
+F0019,Sunita Gupta,18,Tumkur,4.6,Millets
+F0020,Suresh Bhat,7,Davanagere,3.27,Cotton
+F0021,Kavita Singh,9,Hassan,6.31,Sugarcane
+F0022,Rohan Malhotra,3,Bengaluru Rural,1.83,Millets
+F0023,Manoj Sharma,3,Bengaluru Rural,3.28,Pulses
+F0024,Asha Joshi,4,Bidar,3.98,Maize
+F0025,Suresh Gupta,1,Bagalkot,4.83,Millets
+F0026,Manoj Gupta,5,Chikkamagaluru,7.96,Sugarcane
+F0027,Anil Rao,18,Tumkur,2.4,Wheat
+F0028,Kavita Malhotra,12,Kodagu,5.39,Maize
+F0029,Arun Mehta,1,Bagalkot,6.13,Sugarcane
+F0030,Sunita Iyer,11,Hubli,0.94,Cotton
+F0031,Pooja Patel,10,Hosur,6.27,Pulses
+F0032,Priya Rao,7,Davanagere,2.12,Pulses
+F0033,Neha Bhat,14,Mandya,1.12,Sugarcane
+F0034,Raj Bhat,9,Hassan,9.51,Cotton
+F0035,Rohan Malhotra,2,Belur,9.67,Millets
+F0036,Priya Malhotra,18,Tumkur,8.18,Pulses
+F0037,Manoj Reddy,6,Chitradurga,3.39,Sugarcane
+F0038,Rekha Chopra,2,Belur,1.43,Millets
+F0039,Rohan Acharya,7,Davanagere,7.0,Cotton
+F0040,Priya Desai,19,Udupi,4.68,Cotton
+F0041,Vijay Rao,16,Raichur,1.66,Pulses
+F0042,Rekha Malhotra,19,Udupi,5.2,Rice
+F0043,Shweta Joshi,5,Chikkamagaluru,0.83,Rice
+F0044,Priya Khan,6,Chitradurga,9.14,Wheat
+F0045,Asha Iyer,1,Bagalkot,2.96,Rice
+F0046,Suresh Chatterjee,14,Mandya,6.79,Pulses
+F0047,Meera Rao,11,Hubli,3.46,Millets
+F0048,Pooja Malhotra,7,Davanagere,5.44,Maize
+F0049,Kiran Bhat,13,Kolar,5.69,Wheat
+F0050,Meera Gupta,6,Chitradurga,2.26,Sugarcane
+F0051,Sunita Chopra,19,Udupi,9.71,Sugarcane
+F0052,Priya Iyer,3,Bengaluru Rural,7.86,Rice
+F0053,Manoj Kumar,1,Bagalkot,9.43,Cotton
+F0054,Kavita Saxena,3,Bengaluru Rural,9.0,Rice
+F0055,Suresh Sharma,3,Bengaluru Rural,6.18,Rice
+F0056,Asha Joshi,14,Mandya,9.26,Cotton
+F0057,Kavita Nair,5,Chikkamagaluru,1.34,Wheat
+F0058,Meera Rao,1,Bagalkot,2.36,Cotton
+F0059,Pooja Iyer,5,Chikkamagaluru,0.93,Pulses
+F0060,Neha Gupta,15,Mysore,3.59,Rice
+F0061,Neha Khan,13,Kolar,4.19,Sugarcane
+F0062,Anil Sharma,15,Mysore,3.08,Rice
+F0063,Raj Joshi,15,Mysore,8.37,Wheat
+F0064,Vijay Gupta,12,Kodagu,3.89,Sugarcane
+F0065,Amit Mehta,7,Davanagere,3.17,Maize
+F0066,Anil Iyer,14,Mandya,5.66,Sugarcane
+F0067,Meera Reddy,10,Hosur,1.84,Millets
+F0068,Meera Kumar,14,Mandya,8.12,Pulses
+F0069,Kavita Singh,13,Kolar,1.21,Sugarcane
+F0070,Pooja Gupta,4,Bidar,9.88,Rice
+F0071,Rekha Bedi,2,Belur,7.84,Sugarcane
+F0072,Rohan Chopra,6,Chitradurga,2.39,Sugarcane
+F0073,Meera Chatterjee,11,Hubli,0.55,Wheat
+F0074,Deepa Gupta,10,Hosur,8.25,Cotton
+F0075,Meera Sharma,8,Gulbarga,7.22,Rice
+F0076,Asha Saxena,5,Chikkamagaluru,7.43,Cotton
+F0077,Kiran Singh,10,Hosur,7.83,Cotton
+F0078,Suresh Singh,14,Mandya,1.2,Cotton
+F0079,Suresh Iyer,4,Bidar,3.91,Rice
+F0080,Arun Iyer,1,Bagalkot,1.6,Cotton
+F0081,Asha Bhat,14,Mandya,8.7,Sugarcane
+F0082,Arun Saxena,19,Udupi,6.42,Maize
+F0083,Rohan Gupta,8,Gulbarga,3.64,Wheat
+F0084,Rohan Bedi,11,Hubli,1.1,Millets
+F0085,Deepa Chopra,8,Gulbarga,3.45,Pulses
+F0086,Suresh Kumar,9,Hassan,3.59,Cotton
+F0087,Arun Reddy,14,Mandya,7.43,Cotton
+F0088,Vijay Acharya,18,Tumkur,6.56,Wheat
+F0089,Sunita Patel,3,Bengaluru Rural,8.93,Maize
+F0090,Deepa Singh,9,Hassan,4.99,Pulses
+F0091,Meera Desai,20,Uttara Kannada,1.64,Pulses
+F0092,Kiran Kumar,12,Kodagu,7.28,Maize
+F0093,Priya Rao,18,Tumkur,7.73,Rice
+F0094,Priya Malhotra,11,Hubli,5.83,Maize
+F0095,Deepa Bhat,17,Shimoga,7.82,Millets
+F0096,Manoj Gupta,18,Tumkur,5.19,Cotton
+F0097,Pooja Nair,10,Hosur,5.47,Rice
+F0098,Neha Nair,10,Hosur,4.56,Rice
+F0099,Manoj Rao,18,Tumkur,0.74,Wheat
+F0100,Anil Malhotra,13,Kolar,1.52,Cotton
+F0101,Ravi Reddy,14,Mandya,0.8,Millets
+F0102,Amit Malhotra,10,Hosur,6.55,Pulses
+F0103,Sunita Saxena,12,Kodagu,3.49,Wheat
+F0104,Neha Rao,10,Hosur,5.33,Maize
+F0105,Sunita Sharma,16,Raichur,9.12,Wheat
+F0106,Kavita Reddy,16,Raichur,2.87,Pulses
+F0107,Meera Mehta,20,Uttara Kannada,4.4,Millets
+F0108,Amit Iyer,7,Davanagere,7.68,Pulses
+F0109,Rekha Mehta,2,Belur,2.67,Wheat
+F0110,Manoj Mehta,3,Bengaluru Rural,1.23,Maize
+F0111,Rekha Reddy,4,Bidar,3.25,Pulses
+F0112,Asha Chatterjee,3,Bengaluru Rural,2.03,Wheat
+F0113,Anil Khan,6,Chitradurga,9.33,Pulses
+F0114,Kavita Iyer,2,Belur,8.18,Millets
+F0115,Vijay Bedi,8,Gulbarga,6.52,Maize
+F0116,Suresh Nair,16,Raichur,8.78,Millets
+F0117,Kiran Bedi,12,Kodagu,8.13,Maize
+F0118,Ravi Reddy,18,Tumkur,2.27,Wheat
+F0119,Arun Nair,10,Hosur,8.98,Rice
+F0120,Shweta Mehta,16,Raichur,5.62,Millets
+F0121,Manoj Mehta,20,Uttara Kannada,8.17,Cotton
+F0122,Priya Bedi,1,Bagalkot,9.01,Wheat
+F0123,Rohan Sharma,13,Kolar,3.52,Rice
+F0124,Kiran Malhotra,17,Shimoga,1.55,Maize
+F0125,Neha Patel,8,Gulbarga,2.67,Cotton
+F0126,Manoj Reddy,6,Chitradurga,4.56,Cotton
+F0127,Deepa Mehta,8,Gulbarga,8.27,Sugarcane
+F0128,Deepa Malhotra,11,Hubli,8.68,Wheat
+F0129,Neha Bedi,7,Davanagere,0.57,Cotton
+F0130,Arun Desai,4,Bidar,5.35,Cotton
+F0131,Ravi Desai,6,Chitradurga,4.47,Wheat
+F0132,Neha Saxena,20,Uttara Kannada,2.61,Millets
+F0133,Manoj Chopra,9,Hassan,1.64,Sugarcane
+F0134,Vijay Acharya,5,Chikkamagaluru,3.71,Pulses
+F0135,Rekha Patel,6,Chitradurga,9.46,Cotton
+F0136,Shweta Joshi,14,Mandya,3.57,Pulses
+F0137,Kavita Desai,3,Bengaluru Rural,5.43,Pulses
+F0138,Vijay Rao,2,Belur,7.18,Rice
+F0139,Kavita Chatterjee,20,Uttara Kannada,3.95,Pulses
+F0140,Suresh Chopra,13,Kolar,9.73,Millets
+F0141,Arun Gupta,4,Bidar,9.64,Sugarcane
+F0142,Raj Iyer,11,Hubli,2.89,Millets
+F0143,Ravi Reddy,13,Kolar,5.22,Wheat
+F0144,Rekha Acharya,9,Hassan,3.36,Rice
+F0145,Meera Iyer,15,Mysore,3.21,Sugarcane
+F0146,Amit Chopra,19,Udupi,0.85,Cotton
+F0147,Shweta Joshi,9,Hassan,6.29,Cotton
+F0148,Kiran Mehta,12,Kodagu,5.28,Sugarcane
+F0149,Rekha Chatterjee,9,Hassan,0.99,Maize
+F0150,Kavita Nair,19,Udupi,3.15,Sugarcane
+F0151,Kavita Nair,9,Hassan,9.13,Rice
+F0152,Deepa Iyer,18,Tumkur,2.78,Maize
+F0153,Manoj Malhotra,14,Mandya,1.88,Wheat
+F0154,Amit Iyer,4,Bidar,5.15,Millets
+F0155,Amit Gupta,14,Mandya,9.86,Sugarcane
+F0156,Neha Joshi,12,Kodagu,2.8,Sugarcane
+F0157,Neha Sharma,17,Shimoga,6.89,Pulses
+F0158,Neha Bedi,1,Bagalkot,7.74,Millets
+F0159,Ravi Saxena,4,Bidar,2.76,Sugarcane
+F0160,Ravi Khan,6,Chitradurga,7.42,Pulses
+F0161,Raj Mehta,12,Kodagu,3.99,Millets
+F0162,Meera Bhat,3,Bengaluru Rural,6.51,Sugarcane
+F0163,Kavita Nair,13,Kolar,6.52,Sugarcane
+F0164,Ravi Bedi,8,Gulbarga,5.59,Millets
+F0165,Raj Singh,9,Hassan,1.36,Wheat
+F0166,Shweta Malhotra,2,Belur,8.44,Sugarcane
+F0167,Arun Saxena,2,Belur,3.55,Rice
+F0168,Neha Rao,9,Hassan,2.27,Wheat
+F0169,Asha Nair,4,Bidar,0.89,Maize
+F0170,Vijay Chopra,8,Gulbarga,6.11,Maize
+F0171,Raj Nair,13,Kolar,6.94,Maize
+F0172,Suresh Chatterjee,2,Belur,0.66,Millets
+F0173,Meera Sharma,16,Raichur,5.36,Wheat
+F0174,Suresh Sharma,2,Belur,2.65,Wheat
+F0175,Vijay Kumar,20,Uttara Kannada,6.63,Wheat
+F0176,Kavita Rao,5,Chikkamagaluru,2.16,Millets
+F0177,Priya Saxena,17,Shimoga,7.06,Sugarcane
+F0178,Rohan Khan,7,Davanagere,4.17,Cotton
+F0179,Shweta Reddy,7,Davanagere,9.4,Maize
+F0180,Priya Saxena,2,Belur,1.81,Maize
+F0181,Arun Bedi,4,Bidar,3.74,Millets
+F0182,Vijay Patel,1,Bagalkot,1.58,Millets
+F0183,Kavita Reddy,6,Chitradurga,9.28,Pulses
+F0184,Shweta Reddy,1,Bagalkot,8.83,Pulses
+F0185,Asha Khan,12,Kodagu,2.95,Sugarcane
+F0186,Sunita Patel,19,Udupi,6.77,Millets
+F0187,Manoj Kumar,13,Kolar,8.26,Pulses
+F0188,Pooja Reddy,13,Kolar,5.77,Maize
+F0189,Anil Rao,13,Kolar,5.53,Wheat
+F0190,Kiran Nair,20,Uttara Kannada,2.8,Pulses
+F0191,Meera Chatterjee,9,Hassan,1.38,Sugarcane
+F0192,Arun Nair,8,Gulbarga,9.02,Pulses
+F0193,Kavita Patel,18,Tumkur,9.05,Sugarcane
+F0194,Kavita Chopra,1,Bagalkot,6.51,Cotton
+F0195,Raj Joshi,2,Belur,3.72,Sugarcane
+F0196,Manoj Singh,5,Chikkamagaluru,3.82,Wheat
+F0197,Sunita Nair,8,Gulbarga,7.4,Maize
+F0198,Shweta Nair,12,Kodagu,9.02,Rice
+F0199,Kiran Gupta,14,Mandya,8.93,Wheat
+F0200,Neha Chatterjee,12,Kodagu,7.91,Pulses
