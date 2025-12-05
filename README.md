@@ -1,7 +1,6 @@
 
-#  AgriAudit🚀
+# SubsiGuard🛡️
 
-!!!!picture!!!!
 
 > Weeding out the corruption in farmer data to ensure every subsidy reaches the roots, not the loopholes.
 
@@ -21,12 +20,14 @@ Our solutions move the manual auditing to proactive, real-time fraud prevention.
 - **Database:** Pandas
 - **ML Models:** Isolation Forest, Scikit-Learn
 
-## 📸 Screenshots
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+## 📸 Screenshots and Video Demo
+https://drive.google.com/drive/folders/1F9bhrUfaJfPZkey6Gg7KPKb3k1b6cjSh?usp=sharing
 
-## ⚙️ Installation & Run
-How do I run this locally?
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+## ⚙️ Run
+https://overnighthackathon-bunmaggi.streamlit.app/
+[Uploading transactions.csv…] (upload this example dataset to start training the isolated forest model)
+
 
 ## 🔮 Future Scope
 - The Blockchain Supply Chain
@@ -34,7 +35,9 @@ How do I run this locally?
 - Satellite Verification
 
 ## 👥 Team
-- Janice Andrade 
-- Swayam Prabhakar (GitHub Link)
-- Chinmay Gijare (GitHub Link)
-- Rishi Sharma 
+- Janice Andrade (https://github.com/janistall)
+- Swayam Prabhakar (https://github.com/Swayprab)
+- Chinmay Gijare (https://github.com/Noobdev69420))
+- Rishi Sharma (https://github.com/popcornXD/)
+  ## Powepoint Presentation
+(https://drive.google.com/drive/folders/1fqxF7ZFvnOc0XlmT1I1bYCBi0KtzEhHg?usp=sharing)
