@@ -26,8 +26,7 @@ https://drive.google.com/drive/folders/1F9bhrUfaJfPZkey6Gg7KPKb3k1b6cjSh?usp=sha
 
 ## ⚙️ Run
 https://overnighthackathon-bunmaggi.streamlit.app/
-[Uploading transactions.csv…] (upload this example dataset to start training the isolated forest model)
-
+Use Transactions.csv to train the model
 
 ## 🔮 Future Scope
 - The Blockchain Supply Chain
